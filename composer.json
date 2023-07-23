@@ -1,0 +1,9 @@
+{
+  "name": "shaon/sb_admin_oop_crud",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
